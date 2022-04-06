@@ -27,5 +27,10 @@ namespace _14messagebox
             MessageBox.Show(message, "당신의 선택!");
 
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

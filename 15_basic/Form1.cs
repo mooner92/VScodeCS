@@ -31,5 +31,15 @@ namespace _15_basic
                 label2.Text = textBox1.Text + "님! 안녕하세요!";
             }
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label0_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

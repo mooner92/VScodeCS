@@ -21,7 +21,7 @@ namespace B11_Sorting
 
       for(int i=9; i>0; i--)
         for(int j=0; j<i; j++) 
-          if(a[j] > a[j+1])
+          if(a[j] > a[j+1]) 
           {
             int t = a[j];
             a[j] = a[j + 1];

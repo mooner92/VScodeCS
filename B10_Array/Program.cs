@@ -20,7 +20,7 @@ namespace B10_Array
       //  Console.WriteLine(a[i]);
 
       // foreach 문
-      foreach(var x in a)
+      foreach(var x in a)  //variable type
         Console.WriteLine(x);
 
       // 평균, 최소, 최대값을 계산
