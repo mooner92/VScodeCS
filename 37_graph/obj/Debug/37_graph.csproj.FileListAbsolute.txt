@@ -1,0 +1,10 @@
+C:\Users\konyang\Desktop\VP02-master\37_graph\bin\Debug\37_graph.exe.config
+C:\Users\konyang\Desktop\VP02-master\37_graph\bin\Debug\37_graph.exe
+C:\Users\konyang\Desktop\VP02-master\37_graph\bin\Debug\37_graph.pdb
+C:\Users\konyang\Desktop\VP02-master\37_graph\obj\Debug\37_graph.csprojAssemblyReference.cache
+C:\Users\konyang\Desktop\VP02-master\37_graph\obj\Debug\_37_graph.Form1.resources
+C:\Users\konyang\Desktop\VP02-master\37_graph\obj\Debug\_37_graph.Properties.Resources.resources
+C:\Users\konyang\Desktop\VP02-master\37_graph\obj\Debug\37_graph.csproj.GenerateResource.cache
+C:\Users\konyang\Desktop\VP02-master\37_graph\obj\Debug\37_graph.csproj.CoreCompileInputs.cache
+C:\Users\konyang\Desktop\VP02-master\37_graph\obj\Debug\37_graph.exe
+C:\Users\konyang\Desktop\VP02-master\37_graph\obj\Debug\37_graph.pdb
