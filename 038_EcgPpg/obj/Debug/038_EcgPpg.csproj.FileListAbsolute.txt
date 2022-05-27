@@ -1,0 +1,11 @@
+C:\Users\konyang\Desktop\VP02-master\038_EcgPpg\bin\Debug\038_EcgPpg.exe.config
+C:\Users\konyang\Desktop\VP02-master\038_EcgPpg\bin\Debug\038_EcgPpg.exe
+C:\Users\konyang\Desktop\VP02-master\038_EcgPpg\bin\Debug\038_EcgPpg.pdb
+C:\Users\konyang\Desktop\VP02-master\038_EcgPpg\obj\Debug\038_EcgPpg.csproj.AssemblyReference.cache
+C:\Users\konyang\Desktop\VP02-master\038_EcgPpg\obj\Debug\038_EcgPpg.csproj.SuggestedBindingRedirects.cache
+C:\Users\konyang\Desktop\VP02-master\038_EcgPpg\obj\Debug\_038_EcgPpg.Form1.resources
+C:\Users\konyang\Desktop\VP02-master\038_EcgPpg\obj\Debug\_038_EcgPpg.Properties.Resources.resources
+C:\Users\konyang\Desktop\VP02-master\038_EcgPpg\obj\Debug\038_EcgPpg.csproj.GenerateResource.cache
+C:\Users\konyang\Desktop\VP02-master\038_EcgPpg\obj\Debug\038_EcgPpg.csproj.CoreCompileInputs.cache
+C:\Users\konyang\Desktop\VP02-master\038_EcgPpg\obj\Debug\038_EcgPpg.exe
+C:\Users\konyang\Desktop\VP02-master\038_EcgPpg\obj\Debug\038_EcgPpg.pdb
