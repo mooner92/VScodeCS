@@ -10,3 +10,5 @@ graphics 매우중요
 
 윈도우 폼에서는 GDI+에서 그림을 그릴 수 있음
 graphics g 를 선언하고 멤버함수를 사용하여 뭔가를 만들어냄
+window form app에서는 그림을 그린다면
+WPF에서는 만들어서 Children에 Add해주는 식으로 진행됨
