@@ -1,0 +1,11 @@
+C:\Users\konyang\Desktop\VP02-master\040_FormClock\bin\Debug\040_FormClock.exe.config
+C:\Users\konyang\Desktop\VP02-master\040_FormClock\bin\Debug\040_FormClock.exe
+C:\Users\konyang\Desktop\VP02-master\040_FormClock\bin\Debug\040_FormClock.pdb
+C:\Users\konyang\Desktop\VP02-master\040_FormClock\obj\Debug\040_FormClock.csproj.AssemblyReference.cache
+C:\Users\konyang\Desktop\VP02-master\040_FormClock\obj\Debug\040_FormClock.csproj.SuggestedBindingRedirects.cache
+C:\Users\konyang\Desktop\VP02-master\040_FormClock\obj\Debug\_040_FormClock.Form1.resources
+C:\Users\konyang\Desktop\VP02-master\040_FormClock\obj\Debug\_040_FormClock.Properties.Resources.resources
+C:\Users\konyang\Desktop\VP02-master\040_FormClock\obj\Debug\040_FormClock.csproj.GenerateResource.cache
+C:\Users\konyang\Desktop\VP02-master\040_FormClock\obj\Debug\040_FormClock.csproj.CoreCompileInputs.cache
+C:\Users\konyang\Desktop\VP02-master\040_FormClock\obj\Debug\040_FormClock.exe
+C:\Users\konyang\Desktop\VP02-master\040_FormClock\obj\Debug\040_FormClock.pdb
