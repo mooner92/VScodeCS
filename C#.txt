@@ -1,0 +1,4 @@
+form에서는 graphics를 만들어서 선을 그림
+WPF에서는 line객체를 만들어서 설정 후 children으로 add
+객체의 위치를 margin으로 밀어서 결정함
+WPF가 그림을 더 잘 그려줌
